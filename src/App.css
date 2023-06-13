@@ -1,5 +1,13 @@
 .App {
+  max-width: 760px;
   margin: 30px auto;
-  width: 100%;
   text-align: center;
+}
+
+.App label {
+  margin-right: 10px;
+}
+
+.App .color {
+  padding: 5px 15px;
 }
